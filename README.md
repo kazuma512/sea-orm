@@ -6,10 +6,6 @@
 
   <h3>🐚 An async & dynamic ORM for Rust</h3>
 
-  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm)
-  [![docs](https://docs.rs/sea-orm/badge.svg)](https://docs.rs/sea-orm)
-  [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
-
 </div>
 
 # SeaORM
@@ -223,18 +219,6 @@ Licensed under either of
     ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
 
 at your option.
-
-## Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-dual licensed as above, without any additional terms or conditions.
-
-SeaORM is a community driven project. We welcome you to participate, contribute and together help build Rust's future.
-
-A big shout out to our contributors:
-
-[![Contributors](https://opencollective.com/sea-orm/contributors.svg?width=1000&button=false)](https://github.com/SeaQL/sea-orm/graphs/contributors)
 
 ## Mascot
 
